@@ -23,7 +23,7 @@ The project follows these steps:
 3. Exploratory Data Analysis (EDA): Examining the dataset to identify key patterns and insights.
 4. Visualization: Using bar charts and scatter plots to display total cases, deaths, and recoveries across different countries.
 
-## Visualization Insights
+## Data Visualization 
 1. Identifying the Most Affected Country → Analyzing data to determine the country with the highest number of COVID-19 cases.
 2. Total Deaths & Recoveries → Understanding the distribution of deaths and recoveries across different regions.
 3. Trend Analysis → Observing how cases, deaths, and recoveries evolved over time.
